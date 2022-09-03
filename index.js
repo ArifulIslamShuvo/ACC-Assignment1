@@ -16,3 +16,5 @@ app.get("/", (req, res) => {
 app.listen(port, () => {
   console.log("listen to port", port);
 });
+
+// https://assignment-1-peach.vercel.app/api/v1/user
